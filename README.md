@@ -1,6 +1,6 @@
 # Deep Learning Projects
 ### Basic to intermediate level Deep Learning Projects using Tensorflow Library
-#### The following figure shows the current hierarchy of TensorFlow toolkits (ref: Google Devel ML Course):
+#### The following figure shows the current hierarchy of TensorFlow toolkits (Source: Google Devel ML Course):
 
 ![TensorFlow toolkit hierarchy](https://developers.google.com/machine-learning/crash-course/images/TFHierarchy.svg)
 
