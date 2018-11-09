@@ -1,7 +1,8 @@
 # Deep Learning Projects
 
 ### Neural Networks using Keras:
-* Predicting Losing Bank Customers using keras Library 
+* Predicting Losing Bank Customers (Classification) using keras Library 
+* Image Recognition using Convolutional Neural Networks of keras Library (Couldn't finish here due to low computing framework)
 
 ### Neural Networks using Tensorflow: 
 The following figure shows the current hierarchy of TensorFlow toolkits (source: Google Devel ML Course):
