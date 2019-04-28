@@ -12,6 +12,8 @@
 
 ## Projects under PyTorch:
 * Pytorch Basics
+* Linear Regression Model using Pytorch built-in functions
+* MNIST data classification using Fully connected layers
 * Hybrid Deep Learning Model (Self Organized Maps then Neural Networks) for detection and then prediction of credit card defaulter
 * Restricted Boltzmann Machines for Movie Recommendation System (Like or Dislike)
 * Sparse AutoEncoders for Movie Recommendation System (1 to 5 rating)
