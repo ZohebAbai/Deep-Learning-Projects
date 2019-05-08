@@ -21,3 +21,5 @@
 ## Hackathons 
 * AV Minihack under CV Workshop
 * AV Amex Hackathon
+
+## Pytorch vs Tensorflow
