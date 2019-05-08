@@ -1,5 +1,7 @@
 # Deep Learning Projects
 
+#### Pytorch vs Tensorflow on MNIST dataset
+
 ## Projects under Tensorflow or Keras: 
 * Tensorflow Basics
 * MNIST data using basic customizable graph session (Perceptron model) approach
@@ -22,4 +24,3 @@
 * AV Minihack under CV Workshop
 * AV Amex Hackathon
 
-**Pytorch vs Tensorflow on MNIST dataset**
