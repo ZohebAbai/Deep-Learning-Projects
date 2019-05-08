@@ -22,4 +22,4 @@
 * AV Minihack under CV Workshop
 * AV Amex Hackathon
 
-## Pytorch vs Tensorflow
+**Pytorch vs Tensorflow on MNIST dataset**
