@@ -1,6 +1,6 @@
 # Deep Learning Projects
 
-#### Pytorch vs Tensorflow on MNIST dataset
+#### Pytorch vs Tensorflow on MNIST dataset[https://github.com/ZohebAbai/DeepLearning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb]
 
 ## Projects under Tensorflow or Keras: 
 * Tensorflow Basics
