@@ -1,0 +1,51 @@
+Isolate	Predicted_IC50
+isolate_31	2.13163747 
+isolate_32	1.35879667
+isolate_33	1.87733459
+isolate_34	1.96000613
+isolate_35	1.66715045
+isolate_36	1.66652621
+isolate_37	1.74349397
+isolate_38	1.68225605
+isolate_39	1.66214153
+isolate_40	1.4362345
+isolate_41	1.32033554
+isolate_42	1.3378628 
+isolate_43	1.76772844
+isolate_44	1.34281427
+isolate_45	1.54660193
+isolate_46	1.96983017
+isolate_47	1.77835879
+isolate_48	1.95719921
+isolate_49	1.13438043
+isolate_50	1.55308137
+isolate_51	1.3799284 
+isolate_52	1.74417205
+isolate_53	2.09164841
+isolate_54	1.8103962 
+isolate_55	1.86865485
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
