@@ -17,7 +17,7 @@
 * **Time Series Analysis** - Predicting Next Day Google Stock Price movement training a four layer LSTM Network using Keras.
 * **Image Generation** - Generate New Faces, Reconstruct Faces , Feature Manipulation and Face Morphing on CelabA dataset training a four layer Variational AutoEncoder using Keras.
 
-## Projects under PyTorch or Fast.ai:
+## Projects under PyTorch or Fast.ai: (To be completely updated very soon)
 * Pytorch Basics
 * Linear Regression Model using Pytorch built-in functions
 * MNIST data classification using Fully connected layers
