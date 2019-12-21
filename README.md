@@ -16,6 +16,7 @@
 * **Text Sequence Generation** - Pad Sequences and Train two layer LSTM Network using Keras Libraries to generate sequence of texts from 'Alice's Adventure in Wonderland'.
 * **Time Series Analysis** - Predicting Next Day Google Stock Price movement training a four layer LSTM Network using Keras.
 * **Image Generation** - Generate New Faces, Reconstruct Faces , Feature Manipulation and Face Morphing on CelabA dataset training a four layer Variational AutoEncoder using Keras.
+* **Emails Classification** - Similar to sentiment analysis, we classify our emails as financial, maybe useful and non-financial emails using two layer LSTM network.
 
 ## Projects under PyTorch or Fast.ai: (To be completely updated very soon)
 * Pytorch Basics
