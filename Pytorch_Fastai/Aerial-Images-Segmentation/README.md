@@ -1,8 +1,8 @@
 # Aerial Images Segmentation
 
-Automatic Pixelwise Labelling of Aerial Imagery based on [Inria Aerial Image Labeling Contest](https://project.inria.fr/aerialimagelabeling/contest/)
+Automatic Pixelwise Labelling of Aerial Imagery based on [Inria Aerial Image Labeling Contest.](https://project.inria.fr/aerialimagelabeling/contest/)
 
-It was a part of our [Fellowship.ai](https://fellowship.ai/) demo project, consisting of three 3 members Me, Jhansi and Pallavi. Submitted on June 1, 2019 [we achieved one of the top results on the leaderboard back then](https://project.inria.fr/aerialimagelabeling/leaderboard/)
+It was a part of our [Fellowship.ai](https://fellowship.ai/) demo project, consisting of three 3 members Me, Jhansi and Pallavi. Submitted on June 1, 2019 [we achieved one of the top results on the leaderboard back then.](https://project.inria.fr/aerialimagelabeling/leaderboard/)
 
 This notebooks is private in [Fellowship.ai repository](https://github.com/fellowship) but as its almost an year now, I am making it publicly available at my repository.
 
