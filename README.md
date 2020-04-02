@@ -18,10 +18,11 @@
 * **Image Generation** - Generate New Faces, Reconstruct Faces , Feature Manipulation and Face Morphing on CelabA dataset training a four layer Variational AutoEncoder using Keras.
 * **Emails Classification** - Similar to sentiment analysis, we classify our emails as financial, maybe useful and non-financial emails using two layer LSTM network.
 
-## Projects under PyTorch or Fast.ai: (To be completely updated very soon)
+# Projects under PyTorch or Fast.ai: (To be completely updated by mid of of this month)
 * Pytorch Basics
 * Linear Regression Model using Pytorch built-in functions
 * MNIST data classification using Fully connected layers
 * Hybrid Deep Learning Model (Self Organized Maps then Neural Networks) for detection and then prediction of credit card defaulter
+* **Aerial Image Segmentation** - Inria Aerial Image Dataset Contest. One of the Top results in Leaderboard back then.
 * Restricted Boltzmann Machines for Movie Recommendation System (Like or Dislike)
 * Sparse AutoEncoders for Movie Recommendation System (1 to 5 rating)
