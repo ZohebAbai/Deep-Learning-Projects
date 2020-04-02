@@ -1,6 +1,7 @@
 # Aerial Images Segmentation
 
 Automatic Pixelwise Labelling of Aerial Imagery based on [Inria Aerial Image Labeling Contest](https://project.inria.fr/aerialimagelabeling/contest/)
+
 It was a part of our [Fellowship.ai](https://fellowship.ai/) demo project, consisting of three 3 members Me, Jhansi and Pallavi. Submitted on June 1, 2019 [we achieved one of the top results on the leaderboard back then](https://project.inria.fr/aerialimagelabeling/leaderboard/)
 
 This notebooks is private in [Fellowship.ai repository](https://github.com/fellowship) but as its almost an year now, I am making it publicly available at my repository.
@@ -8,7 +9,7 @@ This notebooks is private in [Fellowship.ai repository](https://github.com/fello
 ## Dataset
 The dataset includes urban settlements over the United States and Austria, and is labeled into building and not building classes. Contrary to all previous datasets, the training and test sets are split by city instead of excluding random pixels or tiles.
 
-![Images with their reference](https://github.com/ZohebAbai/Aerial-Images-Segmentation/blob/master/Dataset%20images%20with%20reference.png)
+![Images with their reference](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Pytorch_Fastai/Aerial-Images-Segmentation/Dataset%20images%20with%20reference.png)
 
 |Train| Tiles | Test | Tiles|
 |:------|:----|-----:|-----:|
