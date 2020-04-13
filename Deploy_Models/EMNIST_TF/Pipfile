@@ -11,6 +11,7 @@ numpy = "*"
 flask = "*"
 pillow = "*"
 imageio = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
