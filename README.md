@@ -1,10 +1,12 @@
-# Deep Learning Projects using both Tensorflow and PyTorch Libraries
+# Deep Learning Projects for Beginners 
+#### Using both Tensorflow and PyTorch Libraries
 
-### [Pytorch vs Tensorflow on MNIST dataset](https://github.com/ZohebAbai/DeepLearning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb)
+
+### Get a glimpse of how similar/different these libraries are: [Pytorch vs Tensorflow on MNIST dataset](https://github.com/ZohebAbai/DeepLearning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb)
 
 ## Projects under Tensorflow or Keras:
 
-* **Tensorflow Basics** (Tensors, Graph and Sessions)
+* **Tensorflow Fundamentals** [Tensors Basics](https://github.com/ZohebAbai/DeepLearning-Projects/blob/master/00_Tensorflow_Fundamentals.ipynb)
 * **Classification** - Single layer perceptron model classifying MNIST data using low level Tensorflow API
 * **Classification** - Fully Connected Two Layer model classifying Fashion-MNIST data using higher level Tensorflow API (Keras)
 * **Regression** - FC Three layer model and K-fold method predicting Boston housing price using Keras.
