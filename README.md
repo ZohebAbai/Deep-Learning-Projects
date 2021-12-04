@@ -2,15 +2,17 @@
 #### Using both Tensorflow and PyTorch Libraries
 
 
-### Get a glimpse of how similar/different these libraries are: [Pytorch vs Tensorflow on MNIST dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb)
+**Get a glimpse of how similar/different these libraries are:** \n
+[Pytorch vs Tensorflow on MNIST dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb)
 
 
 ## Projects under Tensorflow or Keras:
 
 * **Tensorflow Fundamentals** [Tensors Basics](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Tensorflow_Keras/00_Tensorflow_Fundamentals.ipynb)
+* **Regression** - [Custom Model on Medical Insurance Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Tensorflow_Keras/01_TF_Regression.ipynb)
+
 * **Classification** - Single layer perceptron model classifying MNIST data using low level Tensorflow API
 * **Classification** - Fully Connected Two Layer model classifying Fashion-MNIST data using higher level Tensorflow API (Keras)
-* **Regression** - FC Three layer model and K-fold method predicting Boston housing price using Keras.
 * **Text Classification** - FC Four layer model, Dropout Regulariser, Learning Rate Scheduler and encoding approach Classifying newswires topics using Keras.
 * **Text Classification** - Embedding and GAP layer model, L2  Regulariser, Reduce LR on Plateau and padding approach Classifying IMDB Movie reviews using Keras
 * **Image Classification** - Custom Convolutional Neural Network, Image Augmentation, LR Finder, One-Cycle LR and GradCAM visualisation  classifying CIFAR-10 dataset using Keras.
