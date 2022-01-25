@@ -28,3 +28,6 @@ logs
 .mypy_cache
 
 .vscode
+
+# Folders
+Pytorch_Fastai/
