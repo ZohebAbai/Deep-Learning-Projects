@@ -1,4 +1,4 @@
-# Best Deep Learning Projects for Beginners 
+# Best Deep Learning Projects for Advanced Learners 
 
 #### Using both Tensorflow and PyTorch Libraries
 
@@ -7,7 +7,8 @@
 
 **In each notebook, we shall train using free Google Colab resources and eventually deploy them as  gradio/streamlit app.**
 
-## Projects under Tensorflow or Keras:
+## Projects under Tensorflow:
 
-* **Tensorflow Fundamentals** [Tensors Basics](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Tensorflow_Keras/00_Tensorflow_Fundamentals.ipynb)
-* **Regression** - [Custom Model on Medical Insurance Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Tensorflow_Keras/01_TF_Regression.ipynb)
+* **Tensorflow Fundamentals** [Tensors Basics](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/00_Tensorflow_Fundamentals.ipynb)
+* **Regression** - [Custom Model on Medical Insurance Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/01_TF_Regression.ipynb)
+* **Image Classification** - [Custom Model on Cifar10 Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/02_TF_Image_Classification.ipynb)
