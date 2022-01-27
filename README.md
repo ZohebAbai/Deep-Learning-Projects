@@ -7,7 +7,7 @@
 
 **In each notebook, we shall train using free Google Colab resources and eventually deploy them as  gradio/streamlit app.**
 
-## Projects under Tensorflow:
+## Notebooks:
 
 * **Tensorflow Fundamentals** [TF Tensors Basics](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/00_Tensorflow_Fundamentals.ipynb)
 	- Constants and Variables
