@@ -1,5 +1,7 @@
 # Best Deep Learning Projects for Advanced Learners 
 
+![welcome](https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47mxzkfopuw507aun32t74ggidrxflwrvb779i1874&rid=giphy.gif)
+
 #### Using both Tensorflow and PyTorch Libraries
 
 **Get a glimpse of how similar/different these libraries are:**
@@ -28,4 +30,13 @@
 	- LR Finder
 	- One-Cycle LR Scheduler
 	- GradCAM visualisation
+	- Gradio App
+* **Multi-Label Image Classification** - [TF Transfer Learning on Custom Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/03_TF_Multilabel_Image_Classification.ipynb)
+	- Custom Dataset 
+	- TF Record with Image Augmentation
+	- Custom Loss Function
+	- LR Finder
+	- One-Cycle LR Scheduler
+	- Transfer Learning
+	- Performance Profiling
 	- Gradio App
