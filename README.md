@@ -38,7 +38,7 @@
 	- Transfer Learning
 	- Performance Profiling
 	- Gradio App
-**Image Generation** - [TF VAE Image Generation on Celeb Faces](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/04_TF_Image_Generation.ipynb)
+* **Image Generation** - [TF VAE Image Generation on Celeb Faces](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/04_TF_Image_Generation.ipynb)
 	- Custom Architecture using Probabilistic Layers
 	- Reduce LR on Plateau Scheduler
 	- New Generated Faces
