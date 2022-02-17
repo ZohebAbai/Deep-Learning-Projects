@@ -35,8 +35,14 @@
 	- Custom Dataset 
 	- TF Record with Image Augmentation
 	- Custom Loss Function
-	- LR Finder
-	- One-Cycle LR Scheduler
 	- Transfer Learning
 	- Performance Profiling
 	- Gradio App
+**Image Generation** - [TF VAE Image Generation on Celeb Faces](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/04_TF_Image_Generation.ipynb)
+	- Custom Architecture using Probabilistic Layers
+	- Reduce LR on Plateau Scheduler
+	- New Generated Faces
+	- Reconstructing Faces
+	- Feature Manipulation
+	- Face Morphing
+	- Visualize clusters on UMAP-reduced 1D latent vector
