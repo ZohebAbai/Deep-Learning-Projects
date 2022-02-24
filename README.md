@@ -7,7 +7,7 @@
 **Get a glimpse of how similar/different these libraries are:**
 [Pytorch vs Tensorflow on MNIST dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/Pytorch_vs_Tensorflow.ipynb)
 
-**In each notebook, we shall train using free Google Colab resources and eventually deploy them as  gradio/streamlit app.**
+**In each notebook, we shall train using free Google Colab resources and eventually deploy them as gradio/streamlit app (depending on projects).**
 
 ## Notebooks:
 
@@ -46,3 +46,7 @@
 	- Feature Manipulation
 	- Face Morphing
 	- Visualize clusters on UMAP-reduced 1D latent vector
+* **Metric Learning** - [TF Similarity Models on Dog-Cat Breed Dataset](https://github.com/ZohebAbai/Deep-Learning-Projects/blob/master/05_TF_Metric_Learning.ipynb)
+	- Tensorflow Similarity
+	- Transfer Learning with an embedding layer and Multisimilarity loss
+	- Indexing, Calibration, Querying and Clustering
