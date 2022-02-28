@@ -11,15 +11,19 @@
 
 ## Notebooks:
 
+### Fundamentals
 * **Tensorflow Fundamentals** [TF Tensors Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Tensorflow_Fundamentals.ipynb)
 	- Constants and Variables
 	- Compatibility with Numpy
 	- Random Generators
 	- Basic Operations
 * **Pytorch Fundamentals** [PT Tensors Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pytorch_Fundamentals.ipynb)
-	- Basic Operations
+	- Tensor Basic
 	- Interoperability with Numpy
-	- Autograd
+	- Basic Operations
+	- Custom Regression Model Training on GPU
+
+### Computer Vision
 * **Regression** - [Custom TF Model on Medical Insurance Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/01_TF_Regression.ipynb)
 	- Minimal EDA
 	- k-Fold Cross Validation
@@ -49,5 +53,7 @@
 * **Metric Learning** - [TF Similarity Models on Dog-Cat Breed Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/05_TF_Metric_Learning.ipynb)
 	- Tensorflow Similarity
 	- Transfer Learning with an embedding layer and Multisimilarity loss
-	- Indexing, Calibration, Querying and Clustering
+	- ANN Search: Indexing, Calibration, Querying 
+	- Precision-Recall Curve
+	- UMAP-reduced clustering with interactive visualization
 * **Object Detection** - 
