@@ -21,9 +21,9 @@
 	- Tensor Basic
 	- Interoperability with Numpy
 	- Basic Operations
-	- Custom Regression Model Training on GPU
+	- Regression Model Training with Custom Data on GPU
 
-### Structured Data
+### Structured Data	
 * **Regression** - [Custom TF Model on Medical Insurance Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/01_TF_Regression.ipynb)
 	- Minimal EDA
 	- k-Fold Cross Validation
