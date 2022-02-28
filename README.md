@@ -23,12 +23,14 @@
 	- Basic Operations
 	- Custom Regression Model Training on GPU
 
-### Computer Vision
+### Structured Data
 * **Regression** - [Custom TF Model on Medical Insurance Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/01_TF_Regression.ipynb)
 	- Minimal EDA
 	- k-Fold Cross Validation
 	- L1 Regularizers
 	- Gradio App
+
+### Computer Vision
 * **Image Classification** - [Custom TF Model on Cifar10 Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/02_TF_Image_Classification.ipynb)
 	- Image Augmentation
 	- LR Finder
