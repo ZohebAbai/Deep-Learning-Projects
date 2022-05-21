@@ -61,7 +61,7 @@
 * **Object Detection** - 
 
 ### Natural Language Processing
-* **Pre-Neural NLP** [Pre-Neural NLP](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pre_Neural_NLP.ipynb)
+* **Pre-Neural NLP** - [Heuristics-based & Statistical Methods in NLP](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pre_Neural_NLP.ipynb)
 	- Basics of Sentiment Analysis
 	- Valence Aware Dictionary and Sentiment Reasoner (VADER)
 	- Support Vector Machines (SVM)
