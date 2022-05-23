@@ -67,4 +67,9 @@
 	- Support Vector Machines (SVM)
 	- Grid Search for Hyperparameters
 	- ROC Curve
-* **Understanding Vanilla Transformers** - []()
+* **Understanding Vanilla Transformers** - [Vanilla Transformers](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Understanding_Vanilla_Transformers.ipynb)
+	- Understanding Seq2Seq Models
+	- Understanding Attention Mechanism
+	- Understanding Transformer Architecture
+
+
