@@ -1,5 +1,7 @@
 # Best Deep Learning Projects for Advanced Learners 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZohebAbai/Deep-Learning-Projects/master)
+
 ![welcome](https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47mxzkfopuw507aun32t74ggidrxflwrvb779i1874&rid=giphy.gif)
 
 #### Using both Tensorflow and PyTorch Libraries
