@@ -60,7 +60,11 @@
 	- ANN Search: Indexing, Calibration, Querying 
 	- Precision-Recall Curve
 	- UMAP-reduced clustering with interactive visualization
+
+* **Image Translation** - 
+* **Pose Estimation** - 
 * **Object Detection** - 
+* **Panoptic Segmentation** - 
 
 ### Natural Language Processing
 * **Pre-Neural NLP** - [Heuristics-based & Statistical Methods in NLP](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pre_Neural_NLP.ipynb)
@@ -73,7 +77,7 @@
 	- Understanding Seq2Seq Models
 	- Understanding Attention Mechanism
 	- Understanding Transformer Architecture
-* **Vanilla Transformer Comment to Code** - [Train Vanilla Transformer from scratch](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/02_Vanilla_Transformer_Comment_to_Code.ipynb)
+* **Vanilla Transformer Comment to Code** - [Train Vanilla Transformer (Sequence to Sequence)](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/02_Vanilla_Transformer_Comment_to_Code.ipynb)
 	- Dataset Augmentation
 	- Custom Tokenizer
 	- Build Complete Transformer Architecture 
