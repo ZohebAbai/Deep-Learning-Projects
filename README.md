@@ -73,11 +73,11 @@
 	- Support Vector Machines (SVM)
 	- Grid Search for Hyperparameters
 	- ROC Curve
-* **Understanding Vanilla Transformers** - [Vanilla Transformers](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/01_Understanding_Vanilla_Transformers.ipynb)
+* **Understanding Vanilla Transformers** - [Vanilla Transformers](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/06_Understanding_Vanilla_Transformers.ipynb)
 	- Understanding Seq2Seq Models
 	- Understanding Attention Mechanism
 	- Understanding Transformer Architecture
-* **Vanilla Transformer Comment to Code** - [Train Vanilla Transformer (Sequence to Sequence)](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/02_Vanilla_Transformer_Comment_to_Code.ipynb)
+* **Vanilla Transformer Comment to Code** - [Train Vanilla Transformer (Sequence to Sequence)](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/07_Vanilla_Transformer_Comment_to_Code.ipynb)
 	- Dataset Augmentation
 	- Custom Tokenizer
 	- Build Complete Transformer Architecture 
