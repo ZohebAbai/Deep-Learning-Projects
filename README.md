@@ -61,7 +61,12 @@
 	- Precision-Recall Curve
 	- UMAP-reduced clustering with interactive visualization
 
-* **Image Translation** - 
+* **Image Translation** - [TF Pix2Pix on Edges-to-Handbags Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/08_TF_Pix2Pix_on_Edges2Handbags.ipynb)
+	- Understanding Pix2Pix Architecture
+	- Training it from scratch with additional loss fucntion
+	- Focal Frequency Loss
+	- Using Tensorboard during model training
+	- Image Generation
 * **Pose Estimation** - 
 * **Object Detection** - 
 * **Panoptic Segmentation** - 
