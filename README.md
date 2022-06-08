@@ -1,4 +1,4 @@
-# Best Deep Learning Projects for Advanced Learners 
+# Best Deep Learning Projects for Advanced Learners [2022 Updated]
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZohebAbai/Deep-Learning-Projects/master)
 
@@ -82,7 +82,7 @@
 	- Understanding Seq2Seq Models
 	- Understanding Attention Mechanism
 	- Understanding Transformer Architecture
-* **Vanilla Transformer Comment to Code** - [Train Vanilla Transformer (Sequence to Sequence)](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/07_Vanilla_Transformer_Comment_to_Code.ipynb)
+* **Vanilla Transformer Comment to Code** - [PT Train Vanilla Transformer (Sequence to Sequence)](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/07_Vanilla_Transformer_Comment_to_Code.ipynb)
 	- Dataset Augmentation
 	- Custom Tokenizer
 	- Build Complete Transformer Architecture 
