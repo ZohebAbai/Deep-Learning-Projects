@@ -94,7 +94,7 @@
 * **JAX Basics** - [JAX Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/JAX_Basics.ipynb)
 	- Why JAX?
 	- How randomness is handled
-	- Speed
+	- Speed Comparison
 	- Asynchronous Dispatch
 	- JIT Compilation
 	- Auto-differentiation with grad
