@@ -90,3 +90,14 @@
 	- Display Attention
 	- Gradio App
 
+### Experimental
+* **JAX Basics** - [JAX Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/JAX_Basics.ipynb)
+	- Why JAX?
+	- How randomness is handled
+	- Speed
+	- Asynchronous Dispatch
+	- JIT Compilation
+	- Auto-differentiation with grad
+	- Auto-vectorization with Vmap
+	- SPMD Programming with Pmap on TPU
+	- Device Memory Profiler
