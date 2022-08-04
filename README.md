@@ -101,3 +101,11 @@
 	- Auto-vectorization with Vmap
 	- SPMD Programming with Pmap on TPU
 	- Device Memory Profiler
+    
+* **PySyft - Secure and Privacy AI**
+	- [Data Owner](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/Data_Owner.ipynb)
+	- [Data Scientist](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/Data_Scientist.ipynb)
+	- Differential Privacy
+	- Remote Data Science
+	- Covid-19 trends prediction
+
