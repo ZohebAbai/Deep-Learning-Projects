@@ -90,7 +90,7 @@
 	- Display Attention
 	- Gradio App
 
-### Experimental
+### Experimental (Excellent ML Applications of few yet not stable libraries)
 * **JAX Basics** - [JAX Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/JAX_Basics.ipynb)
 	- Why JAX?
 	- How randomness is handled
@@ -108,4 +108,13 @@
 	- Differential Privacy
 	- Remote Data Science
 	- Covid-19 trends prediction
+
+* **TenSeal - Homomorphic Encryption on Tensors**
+	- [Homomorphic Encryption Basic and Encrypted Inference](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/HE_Basics_n_Inference.ipynb)
+	- [Homomorphic Encryption NN Training](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/HE_Training.ipynb)
+	- Tenseal Context
+	- Basic Mathematical Operations on Encrypted Tensors
+	- Encrypted Evaluation on Encrypted Test Data
+	- Training Encrypted NN on Encrypted Data 
+
 
