@@ -67,9 +67,16 @@
 	- Focal Frequency Loss
 	- Using Tensorboard during model training
 	- Image Generation
+
+* **Image Segmentation** - [HF SegFormer on Road-Sidewalk Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/09_HF_Image_Segmentation_using_Transformers.ipynb)
+	- Understanding Semantic Segmentation using Transformers
+	- Fine-Tuning it using Huggingface Modules
+	- Mean IOU metric
+	- Publishing the model under open source licence
+	- Model Inference 
+
 * **Pose Estimation** - 
 * **Object Detection** - 
-* **Panoptic Segmentation** - 
 
 ### Natural Language Processing
 * **Pre-Neural NLP** - [Heuristics-based & Statistical Methods in NLP](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pre_Neural_NLP.ipynb)
