@@ -72,7 +72,7 @@
 	- Understanding Semantic Segmentation using Transformers
 	- Fine-Tuning it using Huggingface Modules
 	- Mean IOU metric
-	- Publishing the model under open source licence
+	- [Publishing as HF Model](https://huggingface.co/zoheb/mit-b5-finetuned-sidewalk-semantic)
 	- Model Inference 
 
 * **Pose Estimation** - 
