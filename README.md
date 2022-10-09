@@ -73,7 +73,7 @@
 	- Fine-Tuning it using Huggingface Modules
 	- Mean IOU metric
 	- [Publishing as HF Model](https://huggingface.co/zoheb/mit-b5-finetuned-sidewalk-semantic)
-	- Model Inference 
+	- [Live Inference Model](https://huggingface.co/spaces/zoheb/segformer_demo) 
 
 * **Pose Estimation** - 
 * **Object Detection** - 
