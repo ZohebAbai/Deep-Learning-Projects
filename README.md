@@ -75,8 +75,13 @@
 	- [Publishing as HF Model](https://huggingface.co/zoheb/mit-b5-finetuned-sidewalk-semantic)
 	- [Live Inference Model](https://huggingface.co/spaces/zoheb/segformer_demo) 
 
-* **Pose Estimation** - 
-* **Object Detection** - 
+* **Object Detection** - [PT YOLOS on Matterport Balloons Dataset](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/10_PT_Object_Detection_using_Transformers.ipynb)
+	- Understanding Object Detection using Transformers
+	- Fine-Tuning YOLOS using Pytorch Lightning
+	- Detecting object on a video 
+	- Viewing Attention Layers
+	- [Publishing as HF Model](https://huggingface.co/zoheb/yolos-small-balloon)
+	- [Live Inference Model](https://huggingface.co/spaces/zoheb/yolos_demo) 
 
 ### Natural Language Processing
 * **Pre-Neural NLP** - [Heuristics-based & Statistical Methods in NLP](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/00_Pre_Neural_NLP.ipynb)
