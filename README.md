@@ -103,10 +103,10 @@
 	- Gradio App
 
 ### Joint CV & NLP
-* **Stable Diffusion** - [HF Stable Diffusion with Diffusers](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/11_HF_Stable_Diffusion_with_Diffusers.ipynb)
+* **Stable Diffusion** - [HF Stable Diffusion Text to Image](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/11_HF_Stable_Diffusion_Text_to_Image.ipynb)
 	- Understanding Diffusion Models (Stable diffusion in particular)
 	- Exploring Diffusers Library
-	- Writing an inference pipeline 
+	- Writing an inference pipeline
 	- Understanding the complete generative process during inference
   
 ### Experimental (Excellent ML Applications of few yet not stable libraries)
