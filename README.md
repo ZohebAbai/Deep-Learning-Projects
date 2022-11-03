@@ -102,6 +102,13 @@
 	- Display Attention
 	- Gradio App
 
+### Joint CV & NLP
+* **Stable Diffusion** - [HF Stable Diffusion with Diffusers](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/11_HF_Stable_Diffusion_with_Diffusers.ipynb)
+	- Understanding Diffusion Models (Stable diffusion in particular)
+	- Exploring Diffusers Library
+	- Writing an inference pipeline 
+	- Understanding the complete generative process during inference
+  
 ### Experimental (Excellent ML Applications of few yet not stable libraries)
 * **JAX Basics** - [JAX Basics](https://nbviewer.org/github/ZohebAbai/Deep-Learning-Projects/blob/master/JAX_Basics.ipynb)
 	- Why JAX?
